@@ -1,0 +1,19 @@
+# --- The Executable ---
+# Ignore the specific binary name
+tic80-manager
+
+# --- Google's "Antigravity" (Go) ---
+# Standard Go build artifacts
+*.exe
+*.test
+*.out
+
+# --- VS Code ---
+.vscode/
+*.code-workspace
+.history/
+
+# --- System & Misc ---
+.DS_Store
+*.swp
+*~
